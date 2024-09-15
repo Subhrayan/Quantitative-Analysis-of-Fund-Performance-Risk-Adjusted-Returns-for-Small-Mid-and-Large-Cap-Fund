@@ -9,12 +9,14 @@ Starting with the data source, here for this project I collected all 4 year data
 Then I used Linear Regression method to quantify their returns/reward over 4 years.
 
 ![340003886-d56d38ca-4409-4ba5-82f4-c1af22b7eac2](https://github.com/user-attachments/assets/92616328-ecb8-483f-bca6-2f9b0e12dbc5)
+
 ![340003942-f25b5196-c83e-474f-ae04-2a864eda505a](https://github.com/user-attachments/assets/cdcc8f56-f81a-4e01-8fd0-74dbf4ffedd3)
 
 **Here I got intercept parameter and coefficients for all the funds, where each fund has been taken as both independent and dependent variable.**
 
 
 ![340004163-ddaf6b6f-27c1-45a3-bd2c-69db7e9fc00e](https://github.com/user-attachments/assets/c03f230c-6d37-4501-ab95-a9bdbf753c69)
+
 ![340004482-c2802d32-057d-44dc-acf9-a572243137ea](https://github.com/user-attachments/assets/b8647508-4024-4a5c-ab5f-978f03429939)
 
 **So these are the residuals for each of the cases. Which represents how much the predicted value of each funds deviates from the actual value.**
